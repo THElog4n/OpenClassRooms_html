@@ -1,0 +1,20 @@
+h1{
+    font-family: "Microsoft JhengHei UI";
+}
+.salutation {
+    color: blue;
+}
+
+/* les paragraphe sont en bleu*/
+
+a[title="test"], .test {
+    color: yellow;
+}
+
+#news .test, #poubelle .test {
+    color: blue;
+}
+
+#archive .test {
+    color: green;
+}
