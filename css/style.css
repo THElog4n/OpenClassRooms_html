@@ -18,3 +18,126 @@ a[title="test"], .test {
 #archive .test {
     color: green;
 }
+
+h1
+{
+    font-size: xxx-large;
+}
+
+p
+{
+    font-size: 2em;
+}
+
+p{
+    font-family: normal;
+}
+
+h1
+{
+    font-weight: bold;
+}
+
+em
+{
+    font-style: normal;
+}
+
+h3 + p
+{
+    text-decoration: overline ;
+}
+
+h3
+{
+    font-size: 60px;
+}
+
+*
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: blueviolet;
+}
+
+h3
+{
+    color: #FFFFFF;
+}
+
+h2
+{
+    color: rgb(240,96,204);
+}
+
+mark
+{
+    background-color: blue;
+    color: blueviolet;
+}
+
+body
+{
+    backgroud-image: url("controller_led_ps4.jpg")fixed no repeat top right, url("images/controller_led_ps5.jpg")
+    background-repeat: no-repeat;
+
+}
+
+p
+{
+    background-color: black;
+    color: white;
+    opacity: 0.6;
+}
+
+p
+{
+    background-color: rgb(255,0,0);
+    background-color: rgba(255,0,0,0.5);
+}
+
+p
+{
+    border-radius: 10px;
+}
+
+p
+{
+    box-shadow: 6px 6px 6px black inset;
+}
+
+h1
+{
+    text-shadow: 2px 2px 4px blue;
+}
+
+a
+{
+    text-decoration: none;
+    color: red;
+    font-style: italic;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: green;
+}
+
+p:hover
+{
+    color: green;
+}
+
+a:focus
+{
+    background-color: #FFCC66;
+}
+
+a:visited
+{
+    color: blue;
+}

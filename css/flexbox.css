@@ -1,0 +1,13 @@
+#conteneur {
+    display: flex;
+justify-content: flex-end;
+
+}
+
+.element {
+    background-color: blueviolet;
+    /*align-self: flex-end;*/
+    /*flex: 1;*/
+    height: 250px;
+    width: 250px;
+}

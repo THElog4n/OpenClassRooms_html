@@ -1,0 +1,83 @@
+body
+{
+    background-image: url("/images/AC7_Su-37_Terminator.jpg");
+    background-size: cover;
+}
+
+h1
+{
+    color: skyblue;
+}
+
+h1, p
+{
+    text-align: center;
+}
+
+body
+{
+font-family: "Race sport";
+}
+
+
+p
+{
+    color: blue;
+}
+
+p
+{
+    width: 250px;
+    height: 110px;
+    text-align: justify;
+    border: 1px solid black;
+    overflow: auto;
+
+}
+
+h1
+{
+    text-shadow: 10px 10px 10px blue;
+}
+
+li
+{
+    color: blue;
+}
+
+A.visited
+{
+    color: skyblue;
+}
+
+#bonjour
+{
+    border: skyblue solid;
+    box-shadow: 30px 30px 30px black;
+    width: 20%;
+    margin: auto;
+}
+
+h1
+{
+    display: inline-block;
+    width: 150px;
+    border: 1px solid blue;
+}
+
+p{
+    display: inline-block;
+    border: 1px solid blue;
+    vertical-align: top;
+}
+
+
+.coucou
+{
+    background-color: red;
+    color: yellow;
+
+    position: relative;
+    left: 55px;
+    top: 10px;
+}
